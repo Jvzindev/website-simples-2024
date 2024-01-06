@@ -9,5 +9,4 @@
 <p>CSS3</p>
 
 <h2>Site no ar usando Vercel:</h2>
-<a href="
-https://website-simples-2024.vercel.app/">Acesse aqui</a>
+<a href="https://website-simples-2024.vercel.app/">Acesse aqui</a>
